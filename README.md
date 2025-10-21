@@ -1,5 +1,7 @@
 # NLP Hackathon (Dumbathon)
 
+![poster](assets/slop_poster.png)
+
 Dumbathon? Yes, Dumbathon.
 
 Using your NLP, Comp Sci, Stats, or even Linguistic knowledge you will need to make something dumb, silly, fun, or outright annoying.
@@ -8,7 +10,7 @@ Something you would never actually want to see in the wild.
 
 Inspired by events like [this](https://bostonstupidhackathon.com/) or [this](https://stupidhackathon.github.io/).
 
-The Dumbathon will be taking place from **11/12/2025** to *11/14/2025*. With two asynchronous days to develop your project, and a final in person work / celebration day with a judging panel.
+The Dumbathon will be taking place from **11/12/2025** to **11/14/2025**. With two asynchronous days to develop your project, and a final in person work / celebration day with a judging panel.
 > There will likely also be snacks
 
 ## Why would I do this?
