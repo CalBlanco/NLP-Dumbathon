@@ -1,6 +1,6 @@
 # NLP Hackathon (Dumbathon)
 
-![poster](assets/slop_poster.png)
+<img src="assets/slop_poster.png" alt="slop poster" width="400" height="300"/>
 
 Dumbathon? Yes, Dumbathon.
 
