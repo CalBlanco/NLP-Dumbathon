@@ -1,6 +1,7 @@
-# NLP Hackathon (Dumbathon)
+# NLP + HCI Hackathon (Dumbathon)
 
 <img src="assets/slop_poster.png" alt="slop poster" width="300" height="500"/>
+> Image was made pre HCI addition sorry fam
 
 Dumbathon? Yes, Dumbathon.
 
