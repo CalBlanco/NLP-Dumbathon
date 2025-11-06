@@ -5,7 +5,7 @@
 
 Dumbathon? Yes, Dumbathon.
 
-Using your NLP, Comp Sci, Stats, or even Linguistic knowledge you will need to make something dumb, silly, fun, or outright annoying.
+Using your NLP, Comp Sci, Stats, Linguistic, Design, and Human Interaction knowledge you will need to make something dumb, silly, fun, or outright annoying.
 
 Something you would never actually want to see in the wild.
 
